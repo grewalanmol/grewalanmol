@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anmolpreet Kaur</h1>
 <h3 align="center">A recent UCLA cs grad</h3>
 
